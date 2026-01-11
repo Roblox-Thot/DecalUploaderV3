@@ -1,5 +1,11 @@
 # DecalUploaderV3
-ReRewrite of Decaluploader someday soom™️
+ReRewrite of Decaluploader someday soom™️ when I feel like making it.
+
+# TODO:
+- [ ] Fix the upload system from V2
+- [ ] Create a UI
+- [ ] Create plugin support for custom methods
+- [ ] make more todos
 
 ---
 
